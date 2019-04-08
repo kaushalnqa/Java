@@ -1,0 +1,26 @@
+1) Write a program which supports below mentioned math ops 
+  a) addition of two no
+  b) subtraction of two no
+  c) multiplication of two no 
+  d) division of no by another no
+2) Write a program to reverse the given no 
+3) Write a program to perform below mentioned string operation 
+   a) print string
+   b) print length of string
+   c) print string in upper case
+   d) print string in lower case
+   e) print character at specific index
+   f) print reverse string 
+   g) print substring 
+   h) print index of any specific character
+4) Write a program to check whether no is odd or even 
+5) Write a program to check whether entered character is vowel or not 
+6) Write a program to check entered string is palindrom or not 
+7) Write a program to print fibonacci series 
+8) Write a program to print pascal pyramid 
+9) Write a program to print single dimension array 
+10) Write a program to print two dimension array 
+11) Write a program to find whether element is in array or not 
+12) Write a program to perform binary search for element in array 
+13) Write a program to perform selection sort feature 
+
