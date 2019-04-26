@@ -15,7 +15,7 @@ class account{
 	
 	public void DepositeAmount(double damt)
 	{
-		amount = amount + damt;
+		amount = amount + damt;damt
 	}
 	
 	public void showAccountBalance()
