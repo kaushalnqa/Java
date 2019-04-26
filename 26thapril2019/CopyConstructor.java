@@ -27,9 +27,9 @@ class pConstructor{
 		System.out.println("No :" + no);
 		System.out.println("Name:"+ Name);
 	}
-	public void setInfo(int no, String n)
+	public void setInfo(int no1, String n)
 	{
-		no = no;
+		no = no1;
 		Name = n;
 	}
 
