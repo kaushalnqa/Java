@@ -28,9 +28,7 @@ class rotateArrayElementRight{
 		        curno = a[i];
 				nextno = a[i+1];
 				a[i] = temp;
-				/*System.out.println("curno" + curno);
-				System.out.println("nextno" + nextno);
-				System.out.println("a["+i+"]=" + a[i]);*/
+				
 			}
 			else if (i < a.length-1)
 			{
@@ -38,15 +36,12 @@ class rotateArrayElementRight{
 				curno = a[i];
 				nextno = a[i+1];
 				a[i] = prevno;
-				/*System.out.println("a["+i+"]=" + a[i]);
-				System.out.println("curno" + curno);
-				System.out.println("nextno" + nextno);
-				System.out.println("prevno" + prevno);*/
+				
 			}
 			else
 			{
 				a[i] = curno;
-				//System.out.println("a["+i+"]=" + a[i]);
+				
 			}
 		}
 	}
